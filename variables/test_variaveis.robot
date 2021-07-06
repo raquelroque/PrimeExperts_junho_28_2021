@@ -6,7 +6,7 @@ Documentation       Meu teste de variaveis
 ${MENSAGEM}         Hello world!
 
 
-**** Test Cases ****
+**** Test Cases ***
 Meu teste de impressao de mensagem no terminal
     Logar no terminal uma mensagem
 
